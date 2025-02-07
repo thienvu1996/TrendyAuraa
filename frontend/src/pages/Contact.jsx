@@ -22,7 +22,7 @@ const Contact = () => {
           </p>
           <p className=" text-gray-500">
             Tel:(+84) 975616076 <br />
-            Email:trendyAura@gamil.com{" "}
+            Email:TrendyAura@gamil.com{" "}
           </p>
           <p className="font-semibold text-xl text-gray-600">
             {" "}
